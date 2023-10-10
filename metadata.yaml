@@ -1,0 +1,42 @@
+_repo: Old-English-colour-prints_71768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salaman, Malcolm C. (Malcolm Charles)
+    aliases:
+    - Salaman, Malcolm Charles
+    - Salaman, M. C. (Malcolm Charles)
+    birthdate: 1855
+    deathdate: 1940
+    gutenberg_agent_id: '53584'
+    url: http://www.gutenberg.org/2009/agents/53584
+    wikipedia: https://en.wikipedia.org/wiki/Malcolm_Charles_Salaman
+  editor:
+    agent_name: Holme, Charles
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '41084'
+    url: http://www.gutenberg.org/2009/agents/41084
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Holme
+description: ''
+gutenberg_issued: '2023-10-01'
+identifiers:
+  gutenberg: '71768'
+language: en
+pgterms:marc904: https://archive.org/details/oldenglishcolour00salarich
+pgterms:marc905: 20230418191839salaman
+pgterms:marc906: '1909'
+pgterms:marc907: gb
+production_note:
+- Fiona Holmes, Fay Dunn and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive.
+- Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive.
+publication_note: '  $aLondon :$bOffices of ''The Studio'', $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Old English colour prints
+url: http://www.gutenberg.org/ebooks/71768
