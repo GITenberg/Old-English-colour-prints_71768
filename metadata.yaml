@@ -1,5 +1,8 @@
 _repo: Old-English-colour-prints_71768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71768-h/images/cover.jpg
 creator:
   author:
     agent_name: Salaman, Malcolm C. (Malcolm Charles)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41084
     wikipedia: https://en.wikipedia.org/wiki/Charles_Holme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71768#Old-English-colour-prints
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71768'
